@@ -1,0 +1,17 @@
+.blog-intro {
+    width: 800px;
+    margin: 15px auto;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+.blog-title {
+    text-decoration: underline;
+    margin: 0;
+    margin-bottom: 5px;
+
+}
+.blog-tagline{
+    margin-left: 20px;
+    color: darkgray;
+    font-size: 20px;
+}
